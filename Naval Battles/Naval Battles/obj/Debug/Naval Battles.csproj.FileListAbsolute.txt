@@ -1,0 +1,85 @@
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\Naval Battles.exe.config
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\Naval Battles.exe
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\Naval Battles.pdb
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.AssemblyReference.cache
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.SuggestedBindingRedirects.cache
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Form1.resources
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Properties.Resources.resources
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.GenerateResource.cache
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.CoreCompileInputs.cache
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval Battles.exe
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval Battles.pdb
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Game.resources
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Menu.resources
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\Interop.WMPLib.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Interop.WMPLib.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.ResolveComReference.cache
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Trailer.resources
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\bin\Debug\Naval Battles.exe.config
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\bin\Debug\Naval Battles.exe
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\bin\Debug\Naval Battles.pdb
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\bin\Debug\Interop.WMPLib.dll
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.AssemblyReference.cache
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.SuggestedBindingRedirects.cache
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Interop.WMPLib.dll
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.ResolveComReference.cache
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Form1.resources
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Game.resources
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Menu.resources
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Properties.Resources.resources
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Trailer.resources
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.GenerateResource.cache
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.CoreCompileInputs.cache
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Naval Battles.exe
+C:\Users\RITOS\Desktop\BATTLES SHIPS\Naval Battles\Naval Battles\obj\Debug\Naval Battles.pdb
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\bin\Debug\Naval Battles.exe.config
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\bin\Debug\Naval Battles.exe
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\bin\Debug\Naval Battles.pdb
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\bin\Debug\Interop.WMPLib.dll
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.AssemblyReference.cache
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.SuggestedBindingRedirects.cache
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Interop.WMPLib.dll
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.ResolveComReference.cache
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Form1.resources
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Game.resources
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Menu.resources
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Properties.Resources.resources
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.Trailer.resources
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.GenerateResource.cache
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.CoreCompileInputs.cache
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Naval Battles.exe
+C:\Users\RITOS\Desktop\Naval Battles\Naval Battles\obj\Debug\Naval Battles.pdb
+C:\Users\RITOS\Desktop\NAVAL BATTLES\Naval Battles\obj\Debug\Naval_Battles.RestartMenu.resources
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval_Battles.RestartMenu.resources
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\Google.Protobuf.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\System.Buffers.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\System.Memory.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\Google.Protobuf.pdb
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\Google.Protobuf.xml
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\System.Buffers.xml
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\System.Memory.xml
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\obj\Debug\Naval Battles.csproj.CopyComplete
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\MySqlConnector.dll
+C:\Users\chchn\source\repos\Naval Battles\Naval Battles\bin\Debug\MySqlConnector.xml
